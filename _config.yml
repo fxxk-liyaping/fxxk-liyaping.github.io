@@ -10,10 +10,10 @@ hero-title: "李亚平的传奇人生"
 hero-description: "骗厂家，骗员工，骗合作伙伴，骗政府的奖金，一起关注狗子的吹牛本事！"
 
 # Author - Creator
-author-name: Ben Campbell
+author-name: "狗子 李亚平"
 author-image: 10.jpg
-about-author: My name is Ben Campbell. I'm an actor and a musician. Retro wolf banjo succulen tsgoch ujang tumeric hammock offal.
-author-email: help.example@gmail.com
+about-author: "明明知道公司资不抵债，无法正常支付工资的情况下，还不断招聘新人，一边骗取上游厂家的SDK，一边压迫员工在第一个月发工资前做完一个产品，"
+author-email: dog.liyaping@outlook.com
 author-twitter: https://twitter.com/
 author-facebook: https://twitter.com/
 author-instagram: https://www.instagram.com/
@@ -25,7 +25,7 @@ authors:
     author-name: Natali Braxton
     author-image: 111.jpg
     about-author: My name is Natali Braxton. I love walking, I play the guitar in my spare time. And also write articles about different technologies.
-    author-email: natali.example@gmail.com
+    author-email: dog.liyaping@outlook.com
     author-twitter: https://twitter.com/
     author-facebook: https://twitter.com/
     author-instagram: https://www.instagram.com/
@@ -40,7 +40,7 @@ pinterest: https://pinterest.com/
 youtube: https://www.youtube.com/
 
 # Contact Form Settings
-contact-subtitle: Pok pok listicle meggings, gluten-free deep v you probably haven't heard of them taxidermy iPhone gentrify seitan. Kogi cornhole enamel. # Title for the subscription form.
+contact-subtitle: '如果李亚平欠了你的钱，请提供金额和判决书，任何第三方证明的证据都可以，然后会在本网站上列出来。' # Title for the subscription form.
 
 # Google Analytics
 google-analytics: # Add your identifier. For example UA-99631805-1.
@@ -76,3 +76,4 @@ exclude:
  - Gemfile
  - Gemfile.lock
  - vendor
+ - node_modules
