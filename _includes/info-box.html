@@ -41,6 +41,14 @@
         </li>
         {% else %}
         {% endif %}
+        {% if site.rss %}
+        <li>
+          <a href="{{ site.rss }}">
+            <i class="fa fa-rss" aria-hidden="true"></i>
+          </a>
+        </li>
+        {% else %}
+        {% endif %}
       </ul>
     </div>
     <div class="info-newsletter">

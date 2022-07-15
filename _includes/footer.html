@@ -29,8 +29,11 @@
       <li><a href="{{ site.youtube }}" target="_blank"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
     {% else %}
     {% endif %}
+    {% if site.rss %}
+      <li><a href="{{ site.rss }}"><i class="fa fa-rss" aria-hidden="true"></i></a></li>
     </ul>
-
+    {% else %}
+    {% endif %}
     <div class="copyright">
       <p><a href="https://liyp.org">LiYP.org</a> | 所有的信息均从合法的公开资料收集，欢迎转载！</p>
     </div>
