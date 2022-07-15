@@ -1,12 +1,12 @@
 # Site settings
-title: Lokmont
-description: Lokmont is a responsive simple theme for Jekyll.
+title: "李亚平"
+description: "明明知道公司资不抵债，无法正常支付工资的情况下，还不断招聘新人，一边骗取上游厂家的SDK，一边压迫员工在第一个月发工资前做完一个产品，"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner Section
 hero: 112.jpg
-hero-title: 李亚平的传奇人生
+hero-title: "李亚平的传奇人生"
 hero-description: A Responsive Jekyll Blog Theme. Theme suitable for any kind of creators.
 
 # Author - Creator
