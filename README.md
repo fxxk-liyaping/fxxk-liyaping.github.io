@@ -1,4 +1,4 @@
-Lokmont - Simple & Minimal Theme for Jekyll
+李亚平 - 一只狗子的行骗人生
 =======
 <p>Lokmont is a simple and completely responsive theme for Jekyll, suitable for any kind of bloggers and writers. It was created to be minimal, clean and at the same time functional.</p>
 
@@ -21,13 +21,8 @@ Table of Contents
 
 ### Demo
 
-Check the theme in action [Demo](https://lokmont-jekyll.netlify.com/)
+Check the theme in action [Demo](https://fxxk-liyaping.github.io/)
 
-![Main page preview](https://github.com/artemsheludko/lokmont/blob/master/images/home-page.jpg?raw=true)
-
-The post page would look like this:
-
-![Post page preview](https://github.com/artemsheludko/lokmont/blob/master/images/post-page.jpg?raw=true)
 
 * * *
 
@@ -172,6 +167,4 @@ MIT License
 
 ### Donate
 
-<p>If you want to show your appreciation, buy me one <a href="https://www.buymeacoffee.com/artemsheludko" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a> ! Every five cups of coffee and a new theme for Jekyll is ready 😋</p>
-<p>Either way, your support is a way to thank me ❤️</p>
 <p align="center"><b>Thank you for your support!</b></p>
