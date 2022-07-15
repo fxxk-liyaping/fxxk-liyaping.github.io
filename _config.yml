@@ -5,7 +5,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner Section
-hero: 112.jpg
+hero: dog.jpg
 hero-title: "李亚平的传奇人生"
 hero-description: "骗厂家，骗员工，骗合作伙伴，骗政府的奖金，一起关注狗子的吹牛本事！"
 
