@@ -36,8 +36,9 @@ twitter: https://twitter.com/
 facebook: https://facebook.com/
 google-plus: https://plus.google.com/
 instagram: https://www.instagram.com/
-pinterest: https://pinterest.com/
+pinterest: #https://pinterest.com/
 youtube: https://www.youtube.com/
+rss: /feed.xml
 
 # Contact Form Settings
 contact-subtitle: '如果李亚平欠了你的钱，请提供金额和判决书，任何第三方证明的证据都可以，然后会在本网站上列出来。' # Title for the subscription form.
